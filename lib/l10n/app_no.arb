@@ -1,0 +1,40 @@
+{
+    "newGame": "Nytt spill",
+    "hangMan": "Hangman",
+    "information": "Informasjon",
+
+    "newGameTitle": "Nytt spill!",
+
+    "languageSelector": "Språk",
+
+    "attemptsSelector": "Forsøk",
+
+    "wordLengthSelector": "Ordlengde",
+
+    "random": "Tilfeldig",
+
+    "systemLanguage": "Bruk systemspråk",
+
+    "newGameButton": "Nytt spill!",
+
+    "attemptsLeft": "Antall forsøk igjen: ",
+
+    "makeaNewGuess": "Gjett en bokstav!",
+
+    "restartButton": "Start på nytt",
+    "defeat": "Tap",
+    "youLost": "Du tapte, det riktige order er: ",
+    "victory": "Seier!",
+    "illegalInput": "Det er ikke en gyldig bokstav",
+    "alreadyGuessed": "Du har allerede gjettet denne bokstaven",
+    "configure": "Konfigurer",
+    "youGuessedRight": "Du gjettet riktig ord!",
+    "norwegian": "Norsk",
+    "english": "Engelsk",
+    "howToPlay": "Spilleregler",
+    "howToStartGame": "Du kan starte spillet vet å swipe til høyre. Her kan du finjustere spillreglene før du lager et nytt spill.",
+    "howToSwitchLanguage": "På instillingene kan du bytte språk på HangMan, dette vil bytte så du gjetter på norske ord, og det vil bytte språk på appen.",
+    "rules": "Du kan skrive ord i tillegg til individuelle bokstaver, men dette kommer også til å trekke ned forøkene dine for hver bokstav som er feil!",
+    "howToWin": "Du vinner når du har gjettet riktig før forsøkene dine treffer null"
+    
+}

@@ -1,0 +1,110 @@
+{
+    "newGame": "New game",
+    "@newGame": {
+      "description": "Create a new game"
+    },
+    "hangMan": "Hangman",
+    "@hangMan": {
+      "description": "Play hangman!"
+    },
+    "information": "Information",
+    "@information": {
+      "description": "Information about the game"
+    },
+    "newGameTitle": "New Game!",
+    "@newGameTitle": {
+      "description": "New Game title"
+    },
+    "languageSelector": "Language",
+    "@languageSelector": {
+      "description": "select language"
+    },
+    "attemptsSelector": "Attempts",
+    "@attemptsSelector": {
+      "description": "Select attempts"
+    },
+    "wordLengthSelector": "Word length",
+    "@wordLengthSelector": {
+      "description": "Select word length"
+    },
+    "random": "Random",
+    "@random": {
+      "description": "random"
+    },
+    "systemLanguage": "Use System language",
+    "@systemLanguage": {
+      "description": "System language"
+    },
+    "newGameButton": "New Game!",
+    "@newGameButton": {
+      "description": "Launch a new game"
+    },
+    "attemptsLeft": "Attempts left: ",
+    "@attemptsLeft": {
+      "description": "Attempts left"
+    },
+    "makeaNewGuess": "Make a new guess!",
+    "@makeaNewGuess": {
+      "description": "make a new guess"
+    },
+    "restartButton": "Restart",
+    "@restartButton": {
+      "description": "restart"
+    },
+    "defeat": "defeat",
+    "@defeat": {
+      "description": "defeat"
+    },
+    "youLost": "You lost, right word was: ",
+    "@youLost": {
+      "description": "you lost message"
+    },
+    "victory": "Victory!",
+    "@victory": {
+      "description": "Victory"
+    },
+    "illegalInput": "Illegal input!",
+    "@illegalInput": {
+      "description": "Illegal input"
+    },
+    "alreadyGuessed": "You have already guessed this letter",
+    "@illegalInput": {
+      "description": "already guessed"
+    },
+    "configure": "Configure",
+    "@configure": {
+      "description": "Configure new game"
+    },
+    "youGuessedRight": "You guessed the right word!",
+    "@youGuessedRight": {
+      "description": "guessed right"
+    },
+    "norwegian": "Norwegian",
+    "@norwegian": {
+      "description": "norwegian"
+    },
+    "english": "English",
+    "@english": {
+      "description": "english"
+    },
+     "howToPlay": "How to play",
+    "@howToPlay": {
+      "description": "How to play"
+    },
+     "howToStartGame": "You can start hangman by swiping to the right! You can swipe straigt into the game, or configure the settings",
+    "@howToStartGame": {
+      "description": "How to start the game"
+    },
+    "howToSwitchLanguage": "You can choose your desired language, which will switch the app's language as well",
+    "@howToSwitchLanguage": {
+      "description": "How to switch language"
+    },
+    "rules": "You can input text as well as individual letters in hangman, but be carefull, each letter in your input counts as a possible attempt!",
+    "@rules": {
+      "description": "Game rules"
+    },
+    "howToWin": "You win by guessing the Word before your attempts reach 0",
+    "@howToWin": {
+      "description": "How to win"
+    }
+}

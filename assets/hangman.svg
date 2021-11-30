@@ -1,0 +1,15 @@
+<svg width="248" height="197" viewBox="0 0 248 197" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="220.5" y1="68" x2="220.5" y2="127" stroke="black"/>
+<line x1="220.354" y1="68.3536" x2="195.354" y2="93.3536" stroke="black"/>
+<line x1="220.354" y1="67.6464" x2="245.354" y2="92.6464" stroke="black"/>
+<line x1="220.354" y1="126.354" x2="195.354" y2="151.354" stroke="black"/>
+<line x1="220.354" y1="126.646" x2="244.354" y2="150.646" stroke="black"/>
+<circle r="14" transform="matrix(-1 0 0 1 220.5 53.5)" stroke="black"/>
+<circle r="2.5" transform="matrix(-1 0 0 1 226 51)" stroke="black"/>
+<path d="M228 61.5C225.667 59.3333 219.5 56.3 213.5 61.5" stroke="black"/>
+<circle r="2.5" transform="matrix(-1 0 0 1 214 51)" stroke="black"/>
+<line x1="223.354" y1="47.6464" x2="230.354" y2="54.6464" stroke="black"/>
+<line x1="228.354" y1="48.3536" x2="222.354" y2="54.3536" stroke="black"/>
+<line x1="216.354" y1="48.3536" x2="210.354" y2="54.3536" stroke="black"/>
+<line x1="210.354" y1="47.6464" x2="217.354" y2="54.6464" stroke="black"/>
+</svg>
